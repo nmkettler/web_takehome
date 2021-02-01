@@ -1,0 +1,15 @@
+.prompt-wrapper {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 24px;
+}
+
+.prompt-label {
+  padding: 8px 0;
+  color: #5e5e6a;
+}
+
+.prompt-input {
+  padding: 12px;
+  border: 0;
+}

@@ -1,0 +1,47 @@
+.main-pane {
+  flex: 1;
+  padding: 24px;
+  justify-content: center;
+}
+
+.right-pane {
+  background-color: #fafbfd;
+    flex: 1;
+  padding: 24px;
+  justify-content: center;
+}
+
+.edit-pane {
+  display: flex;
+  flex: 1;
+  padding: 24px;
+  justify-content: center;
+}
+
+.edit-container {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+
+.title {
+  margin: 0.5em 0 1em;
+}
+
+.edit-title {
+  margin: 0.5em 0 1em;
+  text-align: center;
+}
+
+.preview-text {
+  margin-bottom: 8em;
+}
+
+.preview-box {
+  resize: none;
+  border: 0;
+  padding: 12px;
+  margin-bottom: 3em;
+  font-size: 14px;
+  height: 10em;
+}
