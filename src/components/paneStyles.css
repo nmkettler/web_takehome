@@ -1,20 +1,20 @@
 .main-pane {
   flex: 1;
-  padding: 24px;
+  padding: 25px;
   justify-content: center;
 }
 
 .right-pane {
   background-color: #fafbfd;
     flex: 1;
-  padding: 24px;
+  padding: 25px;
   justify-content: center;
 }
 
 .edit-pane {
   display: flex;
   flex: 1;
-  padding: 24px;
+  padding: 25px;
   justify-content: center;
 }
 
@@ -25,23 +25,23 @@
 }
 
 .title {
-  margin: 0.5em 0 1em;
+  margin: 0.5em 0 2em;
 }
 
 .edit-title {
-  margin: 0.5em 0 1em;
+  margin: 0.5em 0 2em;
   text-align: center;
 }
 
 .preview-text {
-  margin-bottom: 8em;
+  margin-bottom: 10em;
 }
 
 .preview-box {
-  resize: none;
   border: 0;
-  padding: 12px;
-  margin-bottom: 3em;
+  padding: 15px;
+  margin-bottom: 2em;
   font-size: 14px;
-  height: 10em;
+  height: 12em;
+  resize: none;
 }
